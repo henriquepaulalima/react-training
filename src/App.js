@@ -1,5 +1,4 @@
-import React, { useEffect, useState } from "react";
-import { Card } from "./Base_Concepts/Card";
+import React from "react";
 
 function App() {
   return (
@@ -7,6 +6,5 @@ function App() {
     </div>
   );
 }
-
 
 export default App;

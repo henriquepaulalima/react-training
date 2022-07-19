@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import { Card } from "./Base_Concepts/Card";
+import { Card } from "./Card";
 
 function BaseConcepts() {
 
